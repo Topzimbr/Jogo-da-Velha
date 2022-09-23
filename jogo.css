@@ -1,0 +1,85 @@
+.centro{
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    position: relative;
+    bottom: 340px;
+    display: block;
+    text-align: center;
+}
+.ordem{
+    position: relative;
+    top: 300px;
+    margin-left: 455px;
+    display: flex;
+}
+.um{
+    position: relative;
+    right: 40px;
+    width: 100px;
+    height: 100px;
+}
+.dois{
+    margin-left: 10px;
+    width: 200px;
+    height: 100px;
+}
+.tres{
+    position: relative;
+    left: 40px;
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+}
+.ordem2{
+    position: relative;
+    top: 400px;
+    margin-left: 455px;
+    display: flex;
+}
+.quatro{
+    position: relative;
+    right: 40px;
+    width: 100px;
+    height: 100px;
+}
+.cinco{
+    margin-left: 10px;
+    width: 200px;
+    height: 100px;
+}
+.seis{
+    position: relative;
+    left: 40px;
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+}
+.ordem3{
+    position: relative;
+    top: 500px;
+    margin-left: 455px;
+    display: flex;
+}
+.sete{
+    position: relative;
+    right: 40px;
+    width: 100px;
+    height: 100px;
+}
+.oito{
+    margin-left: 10px;
+    width: 200px;
+    height: 100px;
+}
+.nove{
+    position: relative;
+    left: 40px;
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+}
+input#btnEnviar{
+    position: relative;
+    bottom: 300px;
+}
